@@ -1,5 +1,8 @@
-# Implementation of HydroGuard
-## The world's first water lumbar traction system with weather control
+# HydroGuard
+## The world's first water lumbar traction system with weather control 
+<p align="center">
+  <img src="https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Images/HydroGuard.jpg" alt="HydroGuard Lumbar Traction">
+</p>
 
 # Project Overview With Video 
 Video Overview Link :: [Checkout For All Details !!](https://www.youtube.com/watch?v=lkTgVo6YzuI)
